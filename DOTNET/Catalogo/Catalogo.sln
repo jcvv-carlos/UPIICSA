@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogoConsola", "CatalogoConsola\CatalogoConsola.csproj", "{9E16D428-D223-475C-968C-81EBA59CF070}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogoWeb", "CatalogoWeb\CatalogoWeb.csproj", "{8C910F0D-835C-4DD3-B7C3-BCD6D62E9D5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C910F0D-835C-4DD3-B7C3-BCD6D62E9D5D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8C910F0D-835C-4DD3-B7C3-BCD6D62E9D5D}.Debug|x86.Build.0 = Debug|Any CPU
+		{8C910F0D-835C-4DD3-B7C3-BCD6D62E9D5D}.Release|x86.ActiveCfg = Release|Any CPU
+		{8C910F0D-835C-4DD3-B7C3-BCD6D62E9D5D}.Release|x86.Build.0 = Release|Any CPU
+		{9E16D428-D223-475C-968C-81EBA59CF070}.Debug|x86.ActiveCfg = Debug|x86
+		{9E16D428-D223-475C-968C-81EBA59CF070}.Debug|x86.Build.0 = Debug|x86
+		{9E16D428-D223-475C-968C-81EBA59CF070}.Release|x86.ActiveCfg = Release|x86
+		{9E16D428-D223-475C-968C-81EBA59CF070}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItems = $0
+		$0.Item = CatalogoConsola\CatalogoConsola.csproj
+		$0.Item = CatalogoWeb\CatalogoWeb.csproj
+		Policies = $1
+		$1.DotNetNamingPolicy = $2
+		$2.DirectoryNamespaceAssociation = None
+		$2.ResourceNamePolicy = FileFormatDefault
+	EndGlobalSection
+EndGlobal
