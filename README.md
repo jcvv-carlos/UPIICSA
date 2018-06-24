@@ -1,0 +1,2 @@
+# UPIICSA
+Some school projects
